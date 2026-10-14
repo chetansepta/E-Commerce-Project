@@ -1,0 +1,7 @@
+target/
+.idea/
+*.class
+ode_modules/
+.env
+dist/
+build/
